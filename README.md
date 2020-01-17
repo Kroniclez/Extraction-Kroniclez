@@ -29,4 +29,10 @@ Attacking Team
 * Add a 2nd win conditiion for balance?
 
 
+Win Conditions
+* VIP Is Extracted or Killed by Attacking team
+* Attacking team runs out of lives
+* Attacking  team does something? interrupts the extraction etc fuck knows
+
+
 Any other ideas are welcome.
